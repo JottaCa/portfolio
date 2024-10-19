@@ -32,15 +32,16 @@
     .sobre-mim .row {
         justify-content: center;
     }
-
+    
     .sobre-mim .imagem-sobre-mim {
         max-width: 100%;
         padding: 0 var(--mobile-padding);
         margin-bottom: 50px;
     }
-
+    
     .sobre-mim .informacoes-sobre-mim {
         max-width: 100%;
+        max-width: 570px;
         padding: 0 var(--mobile-padding);
         text-align: center;
     }
